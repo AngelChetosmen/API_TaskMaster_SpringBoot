@@ -4,7 +4,7 @@
 **Proyecto desarrollado por:**
 * **J.A. Vega Reyes** (autor de este repositorio)
 
-Este proyecto fue desarrollado para la **Unidad de Aprendizaje "Desarrollo de Aplicaciones Móviles"**, en la **Escuela Superior de Cómputo** del **Instituto Politécnico Nacional** en la Unidad Zacatenco, Ciudad de México.
+Este proyecto fue desarrollado como parte del curso de capacitación del curso de Java impartido por la empresa Global HITSS, en la Ciudad de México.
 
 ---
 ## 💡 Importante
